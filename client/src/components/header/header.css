@@ -22,6 +22,10 @@
   margin-bottom: 50px;
 }
 
+.headerTitle {
+  font-size:xx-large;
+}
+
 .headerListItem {
   display: flex;
   align-items: center;
